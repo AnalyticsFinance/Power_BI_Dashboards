@@ -1,4 +1,4 @@
-# Дашборд по аналитке в Power BI
+# Дашборд по вакансиям в аналитике в Power BI
 
 
 ![General_preview.gif](images/General_preview.gif)
